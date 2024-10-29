@@ -1,8 +1,8 @@
-../Core/Src/main.c:122:6:timer_callback	2
-../Core/Src/main.c:130:6:StartDefaultTask	2
-../Core/Src/main.c:218:5:main	1
-../Core/Src/main.c:277:6:SystemClock_Config	3
-../Core/Src/main.c:321:6:ReadADC_AVERAGE	4
-../Core/Src/main.c:336:6:SentCMDVEL	3
-../Core/Src/main.c:356:6:CheckButtonB	3
-../Core/Src/main.c:378:6:Error_Handler	1
+../Core/Src/main.c:123:6:timer_callback	2
+../Core/Src/main.c:133:6:StartDefaultTask	2
+../Core/Src/main.c:221:5:main	1
+../Core/Src/main.c:281:6:SystemClock_Config	3
+../Core/Src/main.c:326:6:ReadADC_AVERAGE	4
+../Core/Src/main.c:341:6:SentCMDVEL	3
+../Core/Src/main.c:361:6:CheckButtonB	3
+../Core/Src/main.c:383:6:Error_Handler	1
